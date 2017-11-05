@@ -11,7 +11,7 @@ drop special_char blank end filler level
 
 ********************************************************************************************************************
 
-//This set of code converts string variables to numeric and reorders and regroups them//
+//This set of code converts string variables to numeric and reorders and regroups them
 
 *********************************************************************************************************************
 
